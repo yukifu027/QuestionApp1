@@ -30,7 +30,9 @@
 - 機能を限定的にすることで、ユーザーの操作性を高く保つように設計しました。
 
 # 使用技術(開発環境)
-Swift/Xcode/Github
+Swift/Xcode/Github/UserDefaults
 
 # 課題や今後実装したい機能
+
+
 # DB設計
