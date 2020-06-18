@@ -42,7 +42,7 @@ Swift/Xcode/Github/UserDefaults
 
 # DB設計
 
-## usersテーブル
+## UserDefaults
 
 |key|Type|Options|
 |------|----|-------|
