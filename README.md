@@ -1,4 +1,4 @@
-![quiz-app](Simulator Screen Shot - iPhone 11 - 2020-06-18 at 13.13.53.png)
+<img src="https://i.gyazo.com/f1f0cd633d3337218e5ebd0be8ce9bca.png" width="250px;" align= "center;"/>
 
 # アプリ名
 # 概要(このアプリでできることを書いて下さい)
