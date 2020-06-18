@@ -1,4 +1,4 @@
-![quiz-app]()
+![quiz-app](Simulator Screen Shot - iPhone 11 - 2020-06-18 at 13.13.53.png)
 
 # アプリ名
 # 概要(このアプリでできることを書いて下さい)
