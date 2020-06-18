@@ -44,8 +44,6 @@ Swift/Xcode/Github/UserDefaults
 
 ## usersテーブル
 
-|Column|Type|Options|
+|key|Type|Options|
 |------|----|-------|
-|email|string|null: false|
-|password|string|null: false|
-|name|string|null: false|
+|beforeCount|Int|--------|
