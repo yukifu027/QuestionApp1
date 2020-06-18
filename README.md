@@ -17,7 +17,12 @@
   <img src="a04315c3f491d48be9e0d794019ecae6.gif" width="250px;"/>
 </p>
 
- 
+## 2 全問回答後、正答数が表示され、獲得した点数が最高得点を上回れば更新される。
+
+<p align="center">
+  <img src="4dbbbbf39eaabeb5be869492b54c9f7b.gif" width="250px;"/>
+</p>
+
 # 工夫したポイント
 # 使用技術(開発環境)
 # 課題や今後実装したい機能
