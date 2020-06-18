@@ -1,7 +1,14 @@
-<img src="https://i.gyazo.com/f1f0cd633d3337218e5ebd0be8ce9bca.png" width="250px;" align= "center;"/>
+<h2 align="center">Quiz App</h2>
 
-# アプリ名
-# 概要(このアプリでできることを書いて下さい)
+<p align="center">
+  <img src="https://i.gyazo.com/f1f0cd633d3337218e5ebd0be8ce9bca.png" width="250px;"/>
+</p>
+
+
+
+# 概要
+写真に映ったものが人間かどうかを回答するクイズアプリです。ユーザーが回答後、正答数が表示され、今までの最高得点が更新されます。
+
 # 本番環境(デプロイ先　テストアカウント＆ID)
 # 制作背景(意図)
 　⇒どんな課題や不便なことを解決するためにこのアプリを作ったのか。
